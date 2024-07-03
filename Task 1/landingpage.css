@@ -1,0 +1,83 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+header{
+    background-image: linear-gradient(rgb(0,0,0.8),rgb(0, 0, 0,0.01)), url("hotel.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+.log img {
+    width: 350px;  
+    height: auto; 
+    max-width: 100%; 
+}
+.Active,.btn:hover{
+    background-color: white;
+    color: white;
+}
+
+h1 {
+    color: white;
+    padding-top: 25px;
+    }
+
+.hed{
+    display: flex;
+    justify-content: space-between;
+}
+.nav{
+    padding-top: 25px;
+    margin-right: 2px;
+    
+}
+ .nav a{
+    text-decoration: none;
+    display: inline;
+    padding: 25px;
+    color: indianred;
+}
+a:hover{
+    background-color: white;
+    color :black;
+}
+.active {
+    background-color: black;
+}
+
+.center_text{
+    padding-left: 530px;
+    padding-top: 100px;
+}
+
+.btn1{
+    margin-top: 20px;
+    height: 30px;
+    width: 150px;
+    background-color: black;
+    color: white;
+}
+.btn2{
+    margin-top: 20px;
+    height: 30px;
+    width: 200px;
+    margin-left: 150px;
+    background-color: black;
+    color: white;
+}
+footer{
+    text-align: center;
+    padding: 20px 20px;
+    font-weight: 600;
+    background-color: #8bf4fa;
+}
+.btn1:hover {
+    color: rgba(255, 255, 255, 1);
+    box-shadow: 0 5px 15px rgba(253, 253, 253, 0.4);
+  }
+.btn2:hover {
+    color: rgba(255, 255, 255, 1);
+    box-shadow: 0 5px 15px rgba(253, 253, 253, 0.4);
+  }
