@@ -1,1 +1,1 @@
-Task 1: Creating landing page using HTML & CSS.
+Task 1: Creating calculator using HTML,CSS & Java Script.
